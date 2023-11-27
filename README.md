@@ -1,4 +1,4 @@
-# Idleon_autopickup4snelbies
+# Idleon-autopickup-script-for-Desktop-version
 It's a script to auto pick up the loot while active afk. Works only if you don't interact with your pc. So it's best suited to run overnight or while you do something else.
 It's also a somewhat brute force type of script, by this i mean it does not click specific images such as coins, it just goes on to a loop from left to right while pressing mouse1 button.
 
